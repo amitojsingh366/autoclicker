@@ -9,7 +9,7 @@ This is a simple autoclicker made with [python](https://www.python.org)
 - Ensure python is installed. If not download it from [here](https://www.python.org/downloads/)
 - `git clone https://github.com/amitojsingh366/autoclicker`
 - `cd autoclicker`
-- `pip install pynput`
+- `pip install pynput==1.6.8`
 - `python autoclicker.py`  
 
 # License
